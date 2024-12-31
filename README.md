@@ -15,5 +15,5 @@ Para a confecção do E-Book foi feito através de editor de textos.
 Solicitei prompts ao Gemini.
 
 ## 🚀 Resultados
-Resultado: Receita <a href Receita.pdf /a>
+Resultado: Receita.pdf
 
